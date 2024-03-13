@@ -1,0 +1,38 @@
+{
+  "name": "wie_fib",
+  "version": "1.0.0",
+  "description": "Libel_fib_avg tracks and calculates averages accurately, facilitating mean calculation processes effectively, ensuring dependable results for your statistical analyses.",
+  "main": "average.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "fibonacci-octo": "^1.0.4",
+    "axios": "^0.24.0",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "jest": "^27.4.7",
+    "babel-eslint": "^10.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wielockdorvee154/wie_fib.git"
+  },
+  "homepage": "https://github.com/wielockdorvee154/wie_fib/blob/main/README.md",
+  "issues": "https://github.com/wielockdorvee154/wie_fib/issues",
+  "keywords": [
+    "average",
+    "calculate",
+    "math"
+  ],
+  "author": "wielockdorvee154",
+  "license": "MIT"
+}
